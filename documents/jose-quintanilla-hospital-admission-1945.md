@@ -54,11 +54,27 @@ is **correct in every particular**, and now rests on an Army medical record rath
   diagnosis is face and hand, **do not read a urethral injury into it.**
 - The race field "White (includes Mexican)" is the Army's own 1940s coding category, quoted as-is.
 
-## The companion record
+## The companion record — pulled 8 Sep 2026. It is an ingrown toenail.
 
-A **second** admission card exists for the same serial number: **admitted April 1944, discharged April
-1944** (*US, WWII Hospital Admission Card Files*). Not yet examined in detail — worth pulling, as it
-predates Normandy.
+**Fold3 record 706418064**, same publication, same serial **38143995**:
+https://www.fold3.com/record/706418064/quintanilla-jose-h-us-wwii-hospital-admission-card-files-1942-1954
+
+> Quintanilla, Jose H · race "White, includes Mexican" · **admission age 23** · **Admission date: Apr
+> 1944** · **Admission type of injury: Disease** · Enlisted Man · **Medical Dept., General or
+> Unspecified** · **Length of service: 1 year(s), 9, 10 OR 11 months** · **Injured in line of duty:
+> In line of duty** · **Medical diagnosis: "Diagnosis: Unguis incarnatus"** · **Medical treatment:
+> "Excision of nail"** · **Discharge: Apr 1944 — to Duty.**
+
+*Unguis incarnatus* is an **ingrown toenail**. They cut the nail out and sent him back the same month.
+
+Two things this is worth:
+
+1. **It is the only ordinary, undramatic day of his war that survives on paper.** Two months before
+   Normandy, in England, the medic was the patient — over a toenail.
+2. **It ties the two cards to one man.** Age 23 in Apr 1944 and 24 in Jan 1945; Medical Dept. in both;
+   and "1 year 9–11 months" of service in April 1944 back-dates enlistment to **June–August 1942**,
+   which matches the enlistment record's **14 Aug 1942** exactly. The Jan-1945 battle-casualty card is
+   the same Jose H. Quintanilla, not a namesake sharing a serial transcription.
 
 ## Also on Fold3 under the same serial
 - *US, WWII Army Enlistment Records, 1938–1946*: **Jose H Quintanilla, birth 1921, enlisted 14 Aug 1942,
