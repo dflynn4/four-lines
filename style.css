@@ -97,3 +97,8 @@ table { border-collapse: collapse; width: 100%; font-size: 16px; }
 th, td { text-align: left; padding: 8px 12px 8px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
 th { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-size: 13px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
 td { font-variant-numeric: tabular-nums; }
+
+hr { border: 0; border-top: 1px solid var(--rule); margin: 50px 0; }
+ol { margin: 0 0 18px; padding-left: 24px; }
+ol li { margin: 0 0 9px; }
+figure.portrait img { max-width: 360px; }
